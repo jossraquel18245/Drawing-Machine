@@ -3,13 +3,12 @@ html {
   padding 0;
 }
 
-
 body {
   background-image: url('WoodBackground.png');
   margin: 100px auto 0 auto;
   width: 80%;
   text-align: center;
-  font-family: "Arial black",Gadget, sans-serif;
+  font-family: "Arial black", Gadget, sans-serif;
 }
 
 canvas {
@@ -17,13 +16,14 @@ canvas {
   display: block;
   border: 5px solid black;
 }
+
 h1 {
   font-size: 80px;
-
 }
 
 h2 {
   font-size: 30px;
+}
 
 .center {
   margin-left: auto;
